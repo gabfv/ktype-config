@@ -242,6 +242,10 @@
         "0": {
           "key": "PRINTSCREEN",
           "label": "PRSC"
+        },
+        "2": {
+          "key": "#:ledControl(0, 15)",
+          "label": "LED-"
         }
       }
     },
@@ -253,8 +257,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "SCROLLLOCK",
-          "label": "SCLK"
+          "key": "#:Layer[2]",
+          "label": "ƒ2"
         },
         "1": {
           "key": "SCROLLLOCK",
@@ -276,6 +280,10 @@
         "1": {
           "key": "#:U\"Mute\" + CONS\"Mute\"",
           "label": "MUT"
+        },
+        "2": {
+          "key": "#:ledControl(1, 15)",
+          "label": "LED+"
         }
       }
     },
@@ -523,6 +531,10 @@
         "1": {
           "key": "CONS:PAUSE PLAY",
           "label": "PL/PS"
+        },
+        "2": {
+          "key": "#:animation_control(0)",
+          "label": "V:PL/PS"
         }
       }
     },
@@ -540,6 +552,10 @@
         "1": {
           "key": "CONS:STOP",
           "label": "STOP"
+        },
+        "2": {
+          "key": "#:animation_control(7)",
+          "label": "V:CLEAR"
         }
       }
     },
@@ -557,6 +573,10 @@
         "1": {
           "key": "#:U\"Volume Up\" + CONS\"Volume Up\"",
           "label": "VOL+"
+        },
+        "2": {
+          "key": "#:animation_control(4)",
+          "label": "V:RESET"
         }
       }
     },
@@ -768,6 +788,10 @@
         "1": {
           "key": "CONS:SCAN PREVIOUS TRACK",
           "label": "PREV"
+        },
+        "2": {
+          "key": "#:animation_control(5)",
+          "label": "V:WIPE"
         }
       }
     },
@@ -785,6 +809,10 @@
         "1": {
           "key": "CONS:SCAN NEXT TRACK",
           "label": "NEXT"
+        },
+        "2": {
+          "key": "#:animation_control(3)",
+          "label": "V:STOP"
         }
       }
     },
@@ -802,6 +830,10 @@
         "1": {
           "key": "#:U\"Volume Down\" + CONS\"Volume Down\"",
           "label": "VOL-"
+        },
+        "2": {
+          "key": "#:ledControl(5, 255)",
+          "label": "LED TOG"
         }
       }
     },
@@ -1277,6 +1309,10 @@
         "1": {
           "key": "CONS:REWIND",
           "label": "RW"
+        },
+        "2": {
+          "key": "#:ledControl(8, 1)",
+          "label": "V:SPD-"
         }
       }
     },
@@ -1311,6 +1347,10 @@
         "1": {
           "key": "CONS:FAST FORWARD",
           "label": "FF"
+        },
+        "2": {
+          "key": "#:ledControl(7, 1)",
+          "label": "V:SPD+"
         }
       }
     }
