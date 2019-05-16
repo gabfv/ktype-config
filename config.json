@@ -624,6 +624,10 @@
         "0": {
           "key": "W",
           "label": "W"
+        },
+        "2": {
+          "key": "#:A[color_white](start)",
+          "label": "A:start"
         }
       }
     },
@@ -650,6 +654,10 @@
         "0": {
           "key": "R",
           "label": "R"
+        },
+        "2": {
+          "key": "#:A[color_red](start)",
+          "label": "A:start"
         }
       }
     },
@@ -676,6 +684,10 @@
         "0": {
           "key": "Y",
           "label": "Y"
+        },
+        "2": {
+          "key": "#:A[color_yellow](start)",
+          "label": "A:start"
         }
       }
     },
@@ -702,6 +714,10 @@
         "0": {
           "key": "I",
           "label": "I"
+        },
+        "2": {
+          "key": "#:A[color_indigo](start)",
+          "label": "A:start"
         }
       }
     },
@@ -715,6 +731,10 @@
         "0": {
           "key": "O",
           "label": "O"
+        },
+        "2": {
+          "key": "#:A[color_orange](start)",
+          "label": "A:start"
         }
       }
     },
@@ -920,6 +940,10 @@
         "0": {
           "key": "G",
           "label": "G"
+        },
+        "2": {
+          "key": "#:A[color_green](start)",
+          "label": "A:start"
         }
       }
     },
@@ -1080,6 +1104,10 @@
         "0": {
           "key": "V",
           "label": "V"
+        },
+        "2": {
+          "key": "#:A[color_violet](start)",
+          "label": "A:start"
         }
       }
     },
@@ -1093,6 +1121,10 @@
         "0": {
           "key": "B",
           "label": "B"
+        },
+        "2": {
+          "key": "#:A[color_blue](start)",
+          "label": "A:start"
         }
       }
     },
