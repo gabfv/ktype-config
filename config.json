@@ -616,6 +616,10 @@
         "0": {
           "key": "W",
           "label": "W"
+        },
+        "2": {
+          "key": "#:A[Static_white](single)",
+          "label": "A:single"
         }
       }
     },
@@ -642,6 +646,10 @@
         "0": {
           "key": "R",
           "label": "R"
+        },
+        "2": {
+          "key": "#:A[Static_red](single)",
+          "label": "A:single"
         }
       }
     },
@@ -912,6 +920,10 @@
         "0": {
           "key": "G",
           "label": "G"
+        },
+        "2": {
+          "key": "#:A[Static_green](single)",
+          "label": "A:single"
         }
       }
     },
@@ -964,6 +976,10 @@
         "0": {
           "key": "L",
           "label": "L"
+        },
+        "2": {
+          "key": "#:A[Static_light_blue](single)",
+          "label": "A:single"
         }
       }
     },
@@ -1085,6 +1101,10 @@
         "0": {
           "key": "B",
           "label": "B"
+        },
+        "2": {
+          "key": "#:A[Static_blue](single)",
+          "label": "A:single"
         }
       }
     },
